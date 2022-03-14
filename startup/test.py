@@ -1,2 +1,5 @@
+from app import app
+
+
 def test(cfg):
-    print('startup by "Test" mode')
+    app.start()

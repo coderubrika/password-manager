@@ -1,2 +1,4 @@
+from app import app
+
 def production(cfg):
-    print('startup by "Production" mode')
+    app.start()
