@@ -4,3 +4,4 @@ import sys
 
 def start():
     pass
+    #next step is binding Firebase storage
