@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b69bc7cf-5bbf-40b0-9520-a50bc7ea77b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-template.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-template.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/startup/production.py" beforeDir="false" afterPath="$PROJECT_DIR$/startup/production.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/startup/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/startup/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="b69bc7cf-5bbf-40b0-9520-a50bc7ea77b5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +57,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -256,12 +249,12 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.Development" />
+      <item itemvalue="Python.Init" />
       <item itemvalue="Python.Production" />
       <item itemvalue="Python.Sandbox" />
-      <item itemvalue="Python.Test" />
       <item itemvalue="Python.Stage" />
-      <item itemvalue="Python.Init" />
-      <item itemvalue="Python.Development" />
+      <item itemvalue="Python.Test" />
       <item itemvalue="Python.manage" />
     </list>
     <recent_temporary>
@@ -270,7 +263,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -295,5 +288,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="166" key="SettingsEditor" timestamp="1647281941300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="166" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1647281941300" />
   </component>
 </project>
