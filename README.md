@@ -5,7 +5,7 @@
     - For Windows `python -m venv venv`
     - For Linux `python3 -m venv venv`
 4. Activate virtual environment
-    - For Windows `venv/Scripts/activate`
+    - For Windows `venv/Scripts/activate` or use `./venv_activation.bat`
     - For Linux `source venv/bin/activate`
 3. 
     - Install dependencies on Windows `pip install -r requrements.txt` 
