@@ -7,4 +7,5 @@ pyvenv.cfg
 **/__pycache__
 **/*.pem
 **/*.bin
-config/
+config/*
+!config/.gitkeep
